@@ -104,10 +104,10 @@ https://github.com/infinitered/ignite
 https://github.com/junedomingo/react-native-rename
 
 ## 问题集
-> 请跳转到[问题集.md](问题集.md)进行编写会查看。
+> 请跳转到[问题集.md](问题集.md)进行编写或查看。
 ## 开源App
-> 请跳转到[开源App.md](开源App.md)进行编写会查看。
+> 请跳转到[开源App.md](开源App.md)进行编写或查看。
 ## 教程
-> 请跳转到[教程.md](教程.md)进行编写会查看。
+> 请跳转到[教程.md](教程.md)进行编写或查看。
 ## 资源网站
-> 请跳转到[资源网站.md](资源网站.md)进行编写会查看。
+> 请跳转到[资源网站.md](资源网站.md)进行编写或查看。
