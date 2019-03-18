@@ -15,6 +15,8 @@
 ### JimiLab
 * 百度地图(react-native-baidu-map-jm)
 https://github.com/Eafy/react-native-baidu-map-jm
+* FTP媒体同步(react-native-ftpsyncfilemanager)
+https://github.com/Eafy/FTPSyncFileManager.git
 
 ### 开源Lab
 * **React-native组件库**（比较全的组件库）
