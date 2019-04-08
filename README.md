@@ -17,6 +17,8 @@
 https://github.com/Eafy/react-native-baidu-map-jm
 * FTP媒体同步(react-native-ftpsyncfilemanager)
 https://github.com/Eafy/FTPSyncFileManager.git
+* 二维码扫描(react-native-scanner-kit)
+https://github.com/Eafy/react-native-scanner-kit.git
 
 ### 开源Lab
 * **React-native组件库**（比较全的组件库）
