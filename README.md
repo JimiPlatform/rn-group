@@ -15,6 +15,10 @@
 ### JimiLab
 * 百度地图(react-native-baidu-map-jm)
 https://github.com/Eafy/react-native-baidu-map-jm
+* FTP媒体同步(react-native-ftpsyncfilemanager)
+https://github.com/Eafy/FTPSyncFileManager.git
+* 二维码扫描(react-native-scanner-kit)
+https://github.com/Eafy/react-native-scanner-kit.git
 
 ### 开源Lab
 * **React-native组件库**（比较全的组件库）
@@ -104,10 +108,10 @@ https://github.com/infinitered/ignite
 https://github.com/junedomingo/react-native-rename
 
 ## 问题集
-> 请跳转到[问题集.md](问题集.md)进行编写会查看。
+> 请跳转到[问题集.md](问题集.md)进行编写或查看。
 ## 开源App
-> 请跳转到[开源App.md](开源App.md)进行编写会查看。
+> 请跳转到[开源App.md](开源App.md)进行编写或查看。
 ## 教程
-> 请跳转到[教程.md](教程.md)进行编写会查看。
+> 请跳转到[教程.md](教程.md)进行编写或查看。
 ## 资源网站
-> 请跳转到[资源网站.md](资源网站.md)进行编写会查看。
+> 请跳转到[资源网站.md](资源网站.md)进行编写或查看。
