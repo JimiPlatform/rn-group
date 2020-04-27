@@ -5,6 +5,9 @@ https://github.com/fbsamples/react-native-samples
 * **Facebook F8 App**
 https://github.com/fbsamples/f8app
 
+* **一个纯跨平台的影视APP**
+https://github.com/ikimiler/react-native-video-project
+
 * **仿豆瓣APP**
 https://github.com/jianxiaoBai/douban
 
